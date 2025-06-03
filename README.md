@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](./Media/header.jpg)
+![](./Media/f3a84ba8-9724-47b5-9b34-c9820739b06d.jpg)
 
 <!--
 **DavidKano/DavidKano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
