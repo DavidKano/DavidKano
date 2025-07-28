@@ -1,6 +1,6 @@
 ## ✨ Hola, Soy David Cano 👋
 
-> Soy un **desarrollador Android y Unity Full Stack**, apasionado por crear aplicaciones móviles intuitivas, herramientas prácticas y videojuegos interactivos. Constantemente aprendiendo y explorando nuevas tecnologías para crecer profesionalmente y aportar soluciones reales.
+ Soy un **desarrollador Android y Unity Full Stack**, apasionado por crear aplicaciones móviles intuitivas, herramientas prácticas y videojuegos interactivos. Constantemente aprendiendo y explorando nuevas tecnologías para crecer profesionalmente y aportar soluciones reales.
 
 ### 🌟 Sobre mí:
 
